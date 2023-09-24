@@ -43,4 +43,3 @@ for i in range(len(prize)):
         else:
             print("sorry, wrong answer. You're not recieving any money")
         break
-
